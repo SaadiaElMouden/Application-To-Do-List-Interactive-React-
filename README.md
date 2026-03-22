@@ -35,4 +35,4 @@ L’application a été déployée avec Netlify.
 
  *Lien du projet en ligne* :
 
-https://jazzy-dolphin-f83718.netlify.app
+https://courageous-caramel-24a6e5.netlify.app/
